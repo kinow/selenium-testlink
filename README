@@ -1,0 +1,12 @@
+Sample Selenium project that tests your Body Mass Index.
+
+The site used for tests is http://www.nhlbisupport.com/bmi/Bminojs.htm. 
+It was chosed for being on the top of the list of results in Google and 
+for having the HTML elements easily accessible.
+
+This project is part of Jenkins TestLink Plug-in: The Definitive Guide 
+(https://github.com/kinow/jenkins-testlink-plugin-the-definitive-guide), 
+an Open Source docbook project.
+
+Bruno P. Kinoshita
+http://www.kinoshita.eti.br
